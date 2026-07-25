@@ -1,0 +1,7 @@
+[package]
+name = "stellar_practice"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+stellar-base = "0.7"
